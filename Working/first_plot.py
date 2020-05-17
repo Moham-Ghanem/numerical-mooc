@@ -16,9 +16,3 @@ pyplot.plot(x,y)
 pyplot.show()              
 
 #did it Work?
-#4
-#Again?!
-#?
-#"after3"
-#"endlcih2"
-#"endlich2"
