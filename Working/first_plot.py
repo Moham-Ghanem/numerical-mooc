@@ -15,3 +15,4 @@ y = x**2
 pyplot.plot(x,y)           
 pyplot.show()              
 
+#did it Work?
